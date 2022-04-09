@@ -20,11 +20,11 @@ A. There were 15 5-star Vine reviews and 4,332 5-star reviews from non-Vine user
 ##### Q: What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 A. Just under 32% of Vine reviews were 5-star, while 52% of non-Vine reviews are 5-star.
 
-Here's the dataframe and the results of the code fo Vine users.
-![Vine users](https://github.com/JDittes/Amazon_Vine_Analysis/blob/main/total_vine_revs.png)
+Here's the dataframe and the results of the code for Vine users.
+![Vine users](https://github.com/JDittes/Amazon_Vine_Analysis/blob/main/vine_reviewers.png)
 
-And here's the dataframe and the results of the code fo Vine users.
-![Non-vine reviewers](https://github.com/JDittes/Amazon_Vine_Analysis/blob/main/total_nonvine_revs.png)
+And here's the dataframe and the results of the code for non-Vine users.
+![Non-vine reviewers](https://github.com/JDittes/Amazon_Vine_Analysis/blob/main/nonv_reviewers.png)
 
 ## Summary: 
 I didn't find positivity bias for Vine reviews--quite the contrary. I found that non-Vine reviewers were 20% more likely to give positive reviews than professional reviewers. One result that might skew this data is the relatively small number of Vine reviews (only 47 out of 8,409 total). 
