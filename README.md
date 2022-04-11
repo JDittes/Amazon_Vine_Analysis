@@ -4,7 +4,7 @@ I wanted to use the skills I had learned with AWS and PySpark to analyze Amazon 
 ## Overview of the Analysis:
 Through a program called "Vine," Amazon lets manufacturers post reviews for their products. Amazon also takes payments from review sites like SellBy to post review. I wanted to compare the percentage of Vine reviews that received Amazon's highest rating (5 stars) with the percentage of non-Vine sources that posted 5-star reviews.
 
-Initially I looked at book reviews. I love to read books, and I like to post reviews of the books I read to Amazon's sister site, ![Goodreads.com](https://www.goodreads.com/user/show/5693583-james-jd-dittes). When I ran the data, however, I found no Vine reviews in the (very large data set). On advice from another student, I switched to the database of reviews for watches. I had already done most of my coding, so it was really just a matter of changing the S3 database link. Everything went fine after that.
+Initially I looked at book reviews. I love to read books, and I like to post reviews of the books I read to Amazon's sister site, [Goodreads.com](https://www.goodreads.com/user/show/5693583-james-jd-dittes). When I ran the data, however, I found no Vine reviews in the (very large data set). On advice from another student, I switched to the database of reviews for watches. I had already done most of my coding, so it was really just a matter of changing the S3 database link. Everything went fine after that.
 
 As I interacted with the watch-review data. I found the reviews to be very popular. More than 8,400 reviews were posted, and these reviews had received almost 400,000 interactions from shoppers on the site. ![total votes](https://github.com/JDittes/Amazon_Vine_Analysis/blob/main/total_votes.png)
 
